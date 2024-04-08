@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(18, 18, 53);
+    width: 100vw;
+    height: 100vh;
+  
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .tittle-h1-white {
+    color: white;
+  }
+  
+  main {
+    background-color: white;
+    box-shadow: 10px 10px 2px black;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    padding: 10px;
+    width: 70vw;
+    height: 90vh;
+  }
+
+  .CardsSimpleBuy {
+    display: flex;
+    flex-direction: row;
+  
+    gap: 25px;
+  
+  
+  }
